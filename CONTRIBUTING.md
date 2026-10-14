@@ -1,10 +1,10 @@
-# Contributing to CureCart 🏥✨
+# Contributing to CureCart
 
 First off, thank you for considering contributing to CureCart! It's people like you that make the open-source community such an amazing place to learn, inspire, and create.
 
 Whether you're fixing a bug, adding a new feature, or improving documentation, all contributions are highly appreciated! 
 
-## 🚀 Getting Started Locally
+## Getting Started Locally
 
 To get the project running on your local machine, follow these steps:
 
@@ -63,7 +63,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 ## 🛠️ How to Contribute
 
 ### Finding an Issue
-If you're looking for something to work on, check out the [Issues](https://github.com/Princeag1310/CureCart/issues) tab. 
+If you're looking for something to work on, check out the [Issues](https://github.com/Shejal854/CureCart-main/issues) tab. 
 - Look for issues labeled `good first issue` or `help wanted`.
 - If you find an issue you'd like to tackle, comment on it so we can assign it to you (this prevents duplicate work).
 
@@ -86,12 +86,12 @@ If you're looking for something to work on, check out the [Issues](https://githu
    ```
 6. **Open a Pull Request** against the `main` branch of this repository. Please provide a clear description of what you changed in the PR template.
 
-## 📝 Code Guidelines
+## Code Guidelines
 - **TypeScript:** We use strict TypeScript. Please ensure your code has proper types and avoids using `any` wherever possible.
 - **Styling:** We use Tailwind CSS. Please utilize existing utility classes and our defined design system.
 - **Components:** Keep React components small, reusable, and modular.
 
-## 💬 Need Help?
+## Need Help?
 If you get stuck or have questions about how to implement something, feel free to ask in the issue thread! We are happy to help guide you.
 
-Thank you for contributing! 🚀
+Thank you for contributing! 

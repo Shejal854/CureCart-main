@@ -2,7 +2,7 @@
   <img src="./public/banner.png" alt="CureCart — AI-Powered Digital Pharmacy Platform" width="100%" />
 </p>
 
-# CureCart 🏥✨
+# CureCart
 
 **An AI-Powered Digital Pharmacy Platform**
 
@@ -16,7 +16,7 @@ CureCart is a next-generation healthcare e-commerce platform built with modern w
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 *   **Agentic Web Search (RAG Pipeline):** Integrates the **Tavily Search API** and **Google Gemini** to fetch live, verified medical data from FDA and WHO databases, providing highly accurate, hallucination-free AI responses.
 *   **Global Health Assistant:** A premium, interactive AI Chatbot available globally across the application to instantly assist users with symptoms, drug interactions, and medical queries.
@@ -25,7 +25,7 @@ CureCart is a next-generation healthcare e-commerce platform built with modern w
 *   **Performance Optimized:** Built on Next.js 15 App Router with full Server-Side Rendering (SSR) and Edge caching, ensuring blazing fast load times and a 95+ Lighthouse performance score.
 *   **Scalable Architecture:** End-to-end strict TypeScript typing and Prisma ORM for robust database management and zero runtime errors.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 *   Next.js 15 (App Router)
@@ -54,7 +54,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Princeag1310/CureCart.git
+git clone https://github.com/Shejal854/CureCart-main.git
 cd CureCart
 ```
 
@@ -102,7 +102,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ---
 
-## 📈 Deployment
+## Deployment
 
 This application is optimized for deployment on **Vercel**.
 

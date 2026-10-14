@@ -3,7 +3,7 @@ import { PrismaClient } from '@prisma/client';
 const prisma = new PrismaClient();
 
 async function main() {
-  const allowedEmail = 'prince@curecart.com';
+  const allowedEmail = 'shejalyadav.sy133@gmail.com';
 
   console.log(`Starting admin cleanup... Ensuring ONLY ${allowedEmail} is an ADMIN.`);
 
